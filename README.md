@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **application development**
 
-- 💬 Ask me about **anything about FullStack development**
+- 💬 Ask me about **FullStack development**
 
 - 📫 How to reach me **nathancuvelier59@gmail.com**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nathcvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nathcvl" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20165206/nathcvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20165206/nathcvl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nathcvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathcvl" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20165206/nathcvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20165206/nathcvl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
