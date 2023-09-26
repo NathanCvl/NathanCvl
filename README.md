@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I love travel**
 
-![](https://www.codewars.com/users/NathanCvl/badges/large)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
